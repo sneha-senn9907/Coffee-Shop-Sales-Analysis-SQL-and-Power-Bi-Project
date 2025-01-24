@@ -1,4 +1,7 @@
 # Coffee-Shop-Sales-Analysis
+
+![image](https://github.com/user-attachments/assets/d99d3f04-7c4f-4209-abfb-99302f4e332e)
+
 # Project Overview:
 The Coffee Shop Sales Analysis project aims to analyse coffee shop sales data to gain insights into sales trends, customer behaviour, and identify areas for improvement. Data preprocessing and validation were performed using MySQL, while Power BI was utilized to create interactive dashboards for data visualization and exploration. The project focuses on uncovering sales trends, order patterns, and product performance to aid data-driven decision-making.
 
