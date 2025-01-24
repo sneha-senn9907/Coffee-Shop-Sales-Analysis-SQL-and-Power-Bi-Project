@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analysis
+# Coffee-Shop-Sales-Analysis using SQL and Power Bi
 
 ![image](https://github.com/user-attachments/assets/d99d3f04-7c4f-4209-abfb-99302f4e332e)
 
